@@ -10,6 +10,7 @@ I had tried many experiment to get the best accuracy. The results can be inspect
 ![3.JPG](picture/3.JPG)
 ![4.JPG](picture/4.JPG)
 ![5.JPG](picture/5.JPG)
+'Note' that every convolution layers will starts at 16 kernel size and multiply by 2 for each layer.
 
 I already tried more than 10 times with different parameters like adjust layers, kernel sizes, image width, and batch size to get the best accuracy but I forgot to capture some of the experiments. Most of them had the accuracy around 30%.
 
